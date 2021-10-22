@@ -1,6 +1,0 @@
-# explainIssues
-
-07 В тесте testCancelSearch проблема заключается в том, что при комменте метода waitForElementAndClick для кнопки "X" тест не фейлится
-
-
-09 В тесте testCompareArticleTitle проблема заключается в фейле теста на ассерте 
